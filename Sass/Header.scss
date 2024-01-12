@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+img {
+    width: 197px;
+    height: 36px;
+ /*Pourquoi pas display flex ?*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+
+.location {
+    background-color: #EAEAEA;
+    }
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+i {
+    margin-right: 10px;
+}
+
+}
